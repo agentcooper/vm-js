@@ -14,6 +14,6 @@ Basic virtual machine in JavaScript for the custom bytecode.
 
 ## Roadmap
 
-[ ] Rewrite VM code in C
-[ ] Create basic assembler
-[ ] Use JS/TS compatible AST to emit bytecode
+- [ ] Rewrite VM code in C
+- [ ] Create basic assembler
+- [ ] Use JS/TS compatible AST to emit bytecode
