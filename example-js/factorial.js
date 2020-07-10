@@ -5,5 +5,5 @@ function factorial(n) {
   return n * factorial(n - 1);
 }
 
-const result = factorial(20);
+const result = factorial(10);
 console.log(result);
